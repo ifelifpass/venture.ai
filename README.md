@@ -1,6 +1,8 @@
 # venture.ai
 # Machine learning methods of predicting venture capital deals and returns
 
+# Venture capital data distibution and Nasdaq correlation
+
 Public databases of venture capital investments in startups are readily available in 2023. We can identify at least 53219 startup equity deals over the course of 2009-2022 with the amount of USD 1 M or more. However, as we examine these deals further, we see that they are not distributed uniformly. 
 
 First, as time went on, more and more deals happened (until the market crash in 2022). This can be explained by more disclosure and/or more capital available. 
@@ -9,8 +11,9 @@ First, as time went on, more and more deals happened (until the market crash in 
 
 Second, VC dealflow metrics, aggregated either on monthly or on quarterly basis, correlate with changes in NASDAQ at a very high level. Among the reported startup deals we see a very solid connection with larger equity market. 
 
+### Correlation between VC deal flow and Nasdaq Composite with a given period, 01.01.2009-01.01.2022
 | VC dealflow metric | Monthly | Quarterly
-| -- | -- | -- |
+| :--: | :--: | :--: |
 | Count of deals | 0.813553 | 0.808097
 | Sum of deals | 0.917514	| 0.939877
 | Average deal size | 0.923845 | 0.969424
