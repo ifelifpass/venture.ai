@@ -3,7 +3,9 @@
 
 Public databases of venture capital investments in startups are readily available in 2023. We can identify at least 53219 startup equity deals over the course of 2009-2022 with the amount of USD 1 M or more. However, as we examine these deals further, we see that they are not distributed uniformly. 
 
-First, as time went on, more and more deals happened (until the market crash in 2022). This can be explained by more disclosure and/or more capital available. If startups and startup investors no longer hide the investment terms and tell the public how much exactly the startup raised, we will get more deals recorded in databases. If more capital flows to the market, then more startups can raise more money, and again we will see to data either more deals, or larger deal size, or both. However, we cannot determine how many startup deals go unreported. 
+First, as time went on, more and more deals happened (until the market crash in 2022). This can be explained by more disclosure and/or more capital available. 
+* If startups and startup investors no longer hide the investment terms and tell the public how much exactly the startup raised, we will get more deals recorded in databases (however, we cannot determine how many startup deals go unreported). 
+* If more capital flows to the market, then more startups can raise more money, and again we will see to data either more deals, or larger deal size, or both. 
 
 Second, VC dealflow metrics, aggregated either on monthly or on quarterly basis, correlate with changes in NASDAQ at a very high level. Among the reported startup deals we see a very solid connection with larger equity market. 
 
