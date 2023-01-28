@@ -9,6 +9,14 @@ First, as time went on, more and more deals happened (until the market crash in 
 
 Second, VC dealflow metrics, aggregated either on monthly or on quarterly basis, correlate with changes in NASDAQ at a very high level. Among the reported startup deals we see a very solid connection with larger equity market. 
 
+| VC dealflow metric | Monthly | Quarterly
+| -- | -- | -- |
+| Count of deals | 0.813553 | 0.808097
+| Sum of deals | 0.917514	| 0.939877
+| Average deal size | 0.923845 | 0.969424
+| Median deal size | 0.921061 | 0.950313
+
+
 
 ## VC deal count per month 2009-2023
 
