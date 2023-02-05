@@ -1,6 +1,3 @@
-# venture.ai
-# Machine learning methods of predicting venture capital deals and returns
-
 # Venture capital data distibution and Nasdaq correlation
 
 Public databases of venture capital investments in startups are readily available in 2023. We can identify at least 53219 startup equity deals over the course of 2009-2022 with the amount of USD 1 M or more. However, as we examine these deals further, we see that they are not distributed uniformly. 
